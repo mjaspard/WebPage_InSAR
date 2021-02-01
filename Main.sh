@@ -47,6 +47,9 @@
 source ${HOME}/.bash_profile
 
 
+# Add very important comment in main.sh
+
+
 #Function to write in a console and in a $Logfiles
 function EchoTee()
 	{
